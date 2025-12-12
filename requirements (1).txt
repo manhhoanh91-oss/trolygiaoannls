@@ -1,6 +1,6 @@
 streamlit
 google-generativeai
-google-generativeai
+pip install google-generativeai
 python-docx
 Pillow
 pandas
